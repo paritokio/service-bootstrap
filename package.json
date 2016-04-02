@@ -1,0 +1,28 @@
+{
+  "name": "service-bootstrap",
+  "version": "1.0.0",
+  "description": "Service Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paritokio/service-bootstrap.git"
+  },
+  "keywords": [
+    "service",
+    "bootstrap",
+    "microservice"
+  ],
+  "author": "Juneil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paritokio/service-bootstrap/issues"
+  },
+  "homepage": "https://github.com/paritokio/service-bootstrap#readme",
+  "dependencies": {
+    "hapi": "^13.2.2",
+    "mongoose": "^4.4.10"
+  }
+}
